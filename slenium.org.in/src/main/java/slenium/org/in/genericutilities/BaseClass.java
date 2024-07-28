@@ -9,5 +9,6 @@ public class BaseClass {
 	{
 		System.out.println("hello github");
 		//pull
+		//to avoid conflict need to create new branch
 	}
 }
